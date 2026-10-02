@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+*.o
+*.out
+*.dSYM/
+*.exe
+build/
+DerivedData/
+Day*/ex[0-9]
+Day*/challenge[0-9]
+Day*/challange
+Day*/ex[0-9]
+Day*/challenge[0-9]
