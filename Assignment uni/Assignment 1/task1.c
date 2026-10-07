@@ -13,7 +13,7 @@ int main(void)
     /* Experiment 3: \t inserts a tab (horizontal space) */
     printf("Name:\tMahdi\n");
     printf("Major:\tComputer Engineering\n");
-    printf("City:\tTamraght\n");
+    printf("City:\tSafi\n");
 
     return 0;
 }
