@@ -12,7 +12,7 @@ int main(void)
     }
     aver = tot / 5.0;
     printf ("Total = %d\n", tot);
-    printf ("Average = %.2f\n", aver);
+
 
     return 0;
 }
