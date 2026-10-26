@@ -10,7 +10,7 @@ int main(void)
             z = m * n;
             printf("%d\t", z);
         }
-
+        printf("\n");
     }
 
     return 0;
