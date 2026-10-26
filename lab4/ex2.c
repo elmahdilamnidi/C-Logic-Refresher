@@ -27,6 +27,7 @@ int main()
 
     } while (z != 0);
 
+    printf("Goodbye!\n");
 
     return 0;
 }
