@@ -128,5 +128,5 @@ int main()
         printf("\nGame over.\n");
     }
 
-    return 0;
+
 }
